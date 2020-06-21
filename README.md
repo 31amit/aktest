@@ -1,3 +1,3 @@
 # aktest
  aktest
-This is Test Project for Test the Business Rule given problem.
+This is Test Project for Test the Business Rule of given problem.
