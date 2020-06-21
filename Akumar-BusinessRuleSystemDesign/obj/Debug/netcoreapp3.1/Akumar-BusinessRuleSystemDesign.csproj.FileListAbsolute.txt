@@ -1,0 +1,12 @@
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.exe
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.deps.json
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.runtimeconfig.json
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.runtimeconfig.dev.json
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.dll
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\bin\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.pdb
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.AssemblyInfoInputs.cache
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.AssemblyInfo.cs
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.csproj.CoreCompileInputs.cache
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.dll
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.pdb
+C:\Users\Amit-PC\Desktop\Git Test\Akumar-BussniessRuleSystemDesign\Akumar-BusinessRuleSystemDesign\obj\Debug\netcoreapp3.1\Akumar-BusinessRuleSystemDesign.genruntimeconfig.cache
